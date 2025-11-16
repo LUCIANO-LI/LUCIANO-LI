@@ -1,10 +1,10 @@
  # Welcome to My Homepage
 
-## 🎓 About Me
+##  About Me
 
 Computer Science student at the University of Macau.
 
 
-## 📞 Contact Information
+##  Contact Information
 
-- 📧 Email: lucianoli2004@outlook.com
+-  Email: lucianoli2004@outlook.com
